@@ -1,4 +1,4 @@
-# Group 56 - {Airbnb Data Analysis}
+# Group 56 - Airbnb Data Analysis
 
 - Your title can change over time.
 
@@ -13,7 +13,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Describe your dataset in about 150-200 words
 
 In this project, I will use the detailed listing dataset provided by [Inside Airbnb](http://insideairbnb.com/get-the-data.html) for North Carolina, USA. The dataset contains 2K observations with over 70 attributes. Some of the attributes used in the analysis are price(continuous), longitude (continuous), latitude (continuous), listing_type (categorical), is_superhost (categorical), neighbourhood (categorical), review ratings (continuous) among others.
-According to the website, the data was collected in April, 2021
+According to the website, the data was collected in April, 2021 which was scraped from Airbnb website.
+I would like to explore the data by analysing the factors which influence the prices/rentals. For example, it will be interesting to visualize the data by ploting a heatmap of location against demand as well as the word cloud of 
+
 
 When: When was your data collected (for example, for which years)?
 
