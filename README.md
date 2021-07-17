@@ -1,4 +1,4 @@
-# Group 56 - {Short snappy Title of your project}
+# Group 56 - {Airbnb Data Analysis}
 
 - Your title can change over time.
 
