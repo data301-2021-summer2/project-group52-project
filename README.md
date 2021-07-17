@@ -1,14 +1,14 @@
 # Group 56 - Airbnb Data Analysis
 
-- Your title can change over time.
+
 
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
+Airbnb has seen a meteoric growth since its inception in 2008 with the number of rentals listed on its website growing exponentially each year. Airbnb has successfully disrupted the traditional hospitality industry as more and more travellers, not just the ones who are looking for a bang for their buck but also business travellers resort to Airbnb as their premier accommodation provider. In this project, I will perform an exploratory analysis of the Airbnb dataset sourced from the Inside Airbnb website to understand the rental landscape in NC, USA through various static and interactive visualisations.
 
-{Add your stuff here}
 
 ## Describe your dataset in about 150-200 words
 
@@ -19,8 +19,7 @@ I would like to explore the data by analysing the factors which influence the pr
 
 ## Team Members
 
-- Person 1: Work individually
+- Person 1: Ding, Xin
 
 ## References
-
-{Add your stuff here}
+Airbnb Data
