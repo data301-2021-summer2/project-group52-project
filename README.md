@@ -23,3 +23,8 @@ I would like to explore the data by analysing the factors which influence the pr
 
 ## References
 Airbnb Data
+
+
+
+## Explainer Video Link
+https://vimeo.com/587308034/5a0484656f
